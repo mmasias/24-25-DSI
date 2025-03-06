@@ -14,22 +14,22 @@
 <tr>
 <td>
 
-|La evolución como reflejo de cambios en el entorno empresarial|
+|La evolución<br>como reflejo de cambios en el entorno empresarial|
 |-|
-|Cambios en las necesidades empresariales a lo largo del tiempo|
-|Avances tecnológicos que han impulsado nuevas capacidades|
-|Presiones competitivas y globales que exigen adaptación|
-|Cambios en las expectativas de los clientes y usuarios finales|
+|Cambios en las necesidades empresariales|
+|Avances tecnológicos impulsan nuevas capacidades|
+|Presiones competitivas que exigen adaptación|
+|Cambios en las expectativas de los clientes|
 
 </td>
 <td>
 
 |Relevancia de entender esta evolución|
 |-|
-|Proporciona contexto para comprender el rol actual de la DSI|
+|Proporciona contexto|
 |Ayuda a anticipar tendencias futuras|
 |Permite aprender de los éxitos y fracasos históricos|
-|Facilita la toma de decisiones estratégicas con perspectiva histórica|
+|Facilita la toma de decisiones estratégicas<br>con perspectiva histórica|
 
 </td>
 </tr>
